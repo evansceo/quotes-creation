@@ -61,8 +61,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 * [HTML5](https://github.com/topics/html5)
 * [CSS](https://github.com/topics/css3)
-* [AngulerCLI]
-* [markdown]
+* AngulerCLI
+* markdown
 * [Bootstrap](https://github.com/topics/bootstrap)
 
 ## Known Bugs
