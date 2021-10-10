@@ -1,0 +1,9 @@
+.form-control{
+    color: white;
+    background: transparent;
+    font-weight: 570;
+  }
+  label{
+    color: white;
+    font-weight: 600;
+  }
