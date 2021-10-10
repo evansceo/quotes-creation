@@ -30,6 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Technologies Used
 * [HTML5](https://github.com/topics/html5)* [CSS](https://github.com/topics/css3)* AngulerCLI* markdown* [Bootstrap](https://github.com/topics/bootstrap)
 ## Known Bugs
-* highlight directive property does not work properly
+* highlight directive property does not work properly.
 ## Contact Information 
 If you have any question or contributions, please email me at [evansville09@gmail.com]
