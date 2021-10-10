@@ -29,6 +29,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## Technologies Used
 * [HTML5](https://github.com/topics/html5)* [CSS](https://github.com/topics/css3)* AngulerCLI* markdown* [Bootstrap](https://github.com/topics/bootstrap)
-## Known Bugs* highlight directive property does not work properly
+## Known Bugs
+* highlight directive property does not work properly
 ## Contact Information 
 If you have any question or contributions, please email me at [evansville09@gmail.com]
