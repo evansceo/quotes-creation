@@ -4,8 +4,13 @@
 ## Description
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
 ## FeaturesUser-friendly intafaceEasy to use
-## Setup/Installation RequirementsGo to my github repository :https://github.com/evansceo/quotes-creation.gitFrom this point,fork the repository to be able to clone or downloadCopy the link to clone/downloadClone/download the project using the terminalIn the termina run "ng install"then run "ng serve -o" to open the project on the browser
-## Behavior Driven Development|Behavior |Input |Output ||-------------------|------------------|---------------------------------------||Fill form |submit |Display added quote on html ||Upvote |Click once |Add upvotes by one ||Downvote |Click once |Add downvotes vote by one |
+## Setup/Installation Requirements
+Go to my github repository :https://github.com/evansceo/quotes-creation.gitFrom this point,fork the repository to be able to clone or downloadCopy the link to clone/downloadClone/download the project using the terminalIn the termina run "ng install"then run "ng serve -o" to open the project on the browser
+## Behavior Driven Development
+|Behavior |Input |Output |
+|-------------------|------------------|---------------------------------------|
+|Fill form |submit |Display added quote on html ||Upvote |Click once |Add upvotes by one |
+|Downvote |Click once |Add downvotes vote by one |
 ## Live Page 
 
 
