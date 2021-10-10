@@ -21,7 +21,6 @@ In the termina run "ng install"
 then run "ng serve -o" to open the project on the browser
 
 ## Behavior Driven Development
-|-------------------|------------------|---------------------------------------|
 |Behavior	        |Input	           |Output                                 |
 |-------------------|------------------|---------------------------------------|
 |Fill form	        |submit	           |Display added quote on html            |
