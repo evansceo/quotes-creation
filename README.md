@@ -1,34 +1,15 @@
-# quotes-creation
+# QuotesApp
 
 ## Author
 
-[Evans-Oduor-Onyiego](https://https://github.com/evansceo)
+[Owiti-Charles](https://github.com/Owiti-Charles)
 
 ## Description
 
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
 
-## Features
-User-friendly intaface
-Easy to use
-
-## Setup/Installation Requirements
-Go to my github repository :https://github.com/evansceo/quotes-creation.git
-From this point,fork the repository to be able to clone or download
-Copy the link to clone/download
-Clone/download the project using the terminal
-In the termina run "ng install"
-then run "ng serve -o" to open the project on the browser
-
-## Behavior Driven Development
-|Behavior	        |Input	           |Output                                 |
-|-------------------|------------------|---------------------------------------|
-|Fill form	        |submit	           |Display added quote on html            |
-|Upvote	            |Click once	       |Add upvotes by one                     |
-|Downvote	        |Click once	       |Add downvotes vote by one              |
-
 ## Live Page 
-
+https://Owiti-charles.github.io/Quotes-app/ 
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
@@ -57,11 +38,20 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
+
+* git clone ```https://github.com/Owiti-Charles/Quotes-app.git```
+
+* cd Quotes-app
+
+* code . or atom . based on the text editor you have.
+
 ## Technologies Used
 
 * [HTML5](https://github.com/topics/html5)
 * [CSS](https://github.com/topics/css3)
-* AngulerCLI
+* [AngulerCLI]
 * markdown
 * [Bootstrap](https://github.com/topics/bootstrap)
 
@@ -70,5 +60,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [evansville09@gmail.com]
+If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
 
+## License
+* *MIT License:*
+* Copyright (c) 2019 **Owiti Charles**
