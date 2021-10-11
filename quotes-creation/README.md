@@ -33,3 +33,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * highlight directive property does not work properly.
 ## Contact Information 
 If you have any question or contributions, please email me at [evansville09@gmail.com]
+## License
+* *MIT License:*
+* Copyright (c) 2021 **Evans Oduor**
