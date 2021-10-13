@@ -4,8 +4,8 @@
 ## Description
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
 ## Features
-User-friendly intaface
-Easy to use
+* User-friendly intaface
+* Easy to use
 ## Setup/Installation Requirements
 Go to my github repository :https://github.com/evansceo/quotes-creation.gitFrom this point,fork the repository to be able to clone or downloadCopy the link to clone/downloadClone/download the project using the terminalIn the termina run "ng install"then run "ng serve -o" to open the project on the browser
 ## Behavior Driven Development
@@ -14,9 +14,8 @@ Go to my github repository :https://github.com/evansceo/quotes-creation.gitFrom 
 |Fill form |submit |Display added quote on html ||Upvote |Click once |Add upvotes by one |
 |Downvote |Click once |Add downvotes vote by one |
 ## Live Page 
-
-[evansceo.github.io/quotes-creation/]
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+it can be viewed live at: (evansceo.github.io/quotes-creation/)
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 ## Code scaffolding
@@ -30,7 +29,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## Technologies Used
-* [HTML5](https://github.com/topics/html5)* [CSS](https://github.com/topics/css3)* AngulerCLI* markdown* [Bootstrap](https://github.com/topics/bootstrap)
+* [HTML5](https://github.com/topics/html5)
+* [CSS](https://github.com/topics/css3)
+* AngulerCLI 
+* markdown
+* [Bootstrap](https://github.com/topics/bootstrap)
 ## Known Bugs
 * highlight directive property does not work properly.
 ## Contact Information 
