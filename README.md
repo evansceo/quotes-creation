@@ -3,7 +3,9 @@
 [Evans-Oduor-Onyiego](https://https://github.com/evansceo)
 ## Description
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
-## FeaturesUser-friendly intafaceEasy to use
+## Features
+User-friendly intaface
+Easy to use
 ## Setup/Installation Requirements
 Go to my github repository :https://github.com/evansceo/quotes-creation.gitFrom this point,fork the repository to be able to clone or downloadCopy the link to clone/downloadClone/download the project using the terminalIn the termina run "ng install"then run "ng serve -o" to open the project on the browser
 ## Behavior Driven Development
@@ -13,7 +15,7 @@ Go to my github repository :https://github.com/evansceo/quotes-creation.gitFrom 
 |Downvote |Click once |Add downvotes vote by one |
 ## Live Page 
 
-
+[evansceo.github.io/quotes-creation/]
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
